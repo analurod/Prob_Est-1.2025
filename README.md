@@ -11,9 +11,8 @@ Este é um projeto desenvolvido na Disciplina de Probabilidade e Estatística, n
 
 ## 📁 Estrutura
 
-- `scripts/`: código principal em R
-- `data/`: base de dados (não incluída, por questões de privacidade)
-- `resultados/`: tabelas e gráficos gerados
+- `projeto.R`: código principal em R
+- `base.xlsx`: base de dados (não incluída, por questões de privacidade)
 - `README.md`: este arquivo
 
 ## 🧪 Requisitos
